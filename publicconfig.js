@@ -1,5 +1,4 @@
-const config = {
-    SESSION_ID: "your_session_id_here",
+SESSION_ID: "your_session_id_here",
     ALIVE_IMG: "https://your_image_url_here",
     ALIVE_MSG: "Your custom message here",
     AUTO_READ_STATUS: "true",
@@ -10,4 +9,3 @@ const config = {
     AUTO_STICKER: "true",
     AUTO_VOICE: "true",
     NT: "Nethindu"
-};
