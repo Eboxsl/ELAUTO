@@ -9,5 +9,10 @@
     "AUTO_REPLY": "true",
     "AUTO_STICKER": "true",
     "AUTO_VOICE": "true",
+
+
+
+        
     "NT": "Nethindu"
+    
 }
