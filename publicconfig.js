@@ -14,9 +14,9 @@
 
         
     "NT": "Nethindu😎",
-    "JB": "Nethindu",
+    "JB": "Jithula 😎",
 
 
-     "UPDATE": "Nethindu"
+     "UPDATE": "You rae using latest Update 🫡"
     
 }
